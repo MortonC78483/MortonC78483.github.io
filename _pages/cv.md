@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="ClaireMorton_CV.pdf">LINK </a>
+You can download my CV here:
+
+[**Download CV (PDF)**](/files/ClaireMorton_CV.pdf)
